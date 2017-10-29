@@ -1,4 +1,4 @@
-package models
+package cmpltd
 
 type Command struct {
 	Name        string
